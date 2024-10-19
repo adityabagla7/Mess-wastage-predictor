@@ -44,4 +44,4 @@ The developed model should:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mess-wastage-predictor.git
+   git clone https://github.com/adityabagla7/Mess-wastage-predictor.git
