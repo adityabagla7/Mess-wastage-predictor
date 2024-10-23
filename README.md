@@ -1,4 +1,4 @@
-# Mess Wastage Predictor
+# Mess Wastage Predictor - Machine Learning and Web Development
 
 ## Overview
 
